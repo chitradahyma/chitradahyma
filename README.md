@@ -1,6 +1,6 @@
 -  Hi, I’m @chitradahyma
 -  I'm learning embedded related concepts daily
--  Here i will add my daily progress
+-  Here i will add some programs
 
 <!---
 chitradahyma/chitradahyma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
